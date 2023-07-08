@@ -1,0 +1,131 @@
+{
+  "sectors": [
+    {
+      "name": "Natural Resource Sector",
+      "ministries": [
+        {
+          "name": "Agriculture and Food",
+          "acronym": "AF"
+        },
+        {
+          "name": "Energy, Mines and Low Carbon Innovation",
+          "acronym": "EMLI"
+        },
+        {
+          "name": "Environment and Climate Change Strategy",
+          "acronym": "ENV"
+        },
+        {
+          "name": "Forests",
+          "acronym": "FOR"
+        },
+        {
+          "name": "Indigenous Relations & Reconciliation",
+          "acronym": "IRR"
+        },
+        {
+          "name": "Water, Land and Resource Stewardship",
+          "acronym": "WLRS"
+        }
+      ]
+    },
+    {
+      "name": "Justice and Safety Sector",
+      "ministries": [
+        {
+          "name": "Attorney General",
+          "acronym": "AG"
+        },
+        {
+          "name": "Emergency Management and Climate Readiness",
+          "acronym": "EMCR"
+        },
+        {
+          "name": "Public Safety and Solicitor General",
+          "acronym": "PSSG"
+        }
+      ]
+    },
+    {
+      "name": "Education Sector",
+      "ministries": [
+        {
+          "name": "Education and Child Care",
+          "acronym": "ECC"
+        },
+        {
+          "name": "Post-Secondary Education and Future Skills",
+          "acronym": "PSFS"
+        }
+      ]
+    },
+    {
+      "name": "Health Sector",
+      "ministries": [
+        {
+          "name": "Health",
+          "acronym": "HLTH"
+        },
+        {
+          "name": "Mental Health and Addictions",
+          "acronym": "MMHA"
+        }
+      ]
+    },
+    {
+      "name": "Economy Sector",
+      "ministries": [
+        {
+          "name": "Jobs, Economic Development and Innovation",
+          "acronym": "JEDI"
+        },
+        {
+          "name": "Labour",
+          "acronym": "LBR"
+        },
+        {
+          "name": "Tourism, Arts, Culture and Sport",
+          "acronym": "TACS"
+        },
+        {
+          "name": "Transportation and Infrastructure",
+          "acronym": "MOTI"
+        }
+      ]
+    },
+    {
+      "name": "Governance Sector",
+      "ministries": [
+        {
+          "name": "Finance",
+          "acronym": "FIN"
+        },
+        {
+          "name": "Citizens' Services",
+          "acronym": "CITZ"
+        }
+      ]
+    },
+    {
+      "name": "Social Sector",
+      "ministries": [
+        {
+          "name": "Municipal Affairs",
+          "acronym": "MUNI"
+        },
+        {
+          "name": "Children and Family Development",
+          "acronym": "MCFD"
+        },
+        {
+          "name": "Housing",
+          "acronym": "HOUS"
+        },
+        {
+          "name": "Social Development and Poverty Reduction",
+          "acronym": "SDPR"
+        }
+      ]
+    }
+  ]
+}
