@@ -143,7 +143,9 @@
         {
           "orgname": "Public Agencies"
         }
-      ],
+      ]
+    },
+    {
       "sectors": [
         {
           "sectorname": "Natural Resource Sector"
