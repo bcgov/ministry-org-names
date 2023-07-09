@@ -63,7 +63,14 @@
             {
               "name": "Finance",
               "acronym": "FIN",
-              "sectors": [{"sectorname": "Governance Sector"}]
+              "sectors": [
+                {
+                  "sectorname": "Governance Sector"
+                },
+                {
+                  "sectorname": "Economy Sector"                  
+                }
+              ]
             },
             {
               "name": "Forests",
@@ -128,7 +135,14 @@
             {
               "name": "Transportation and Infrastructure",
               "acronym": "MOTI",
-              "sectors": [{"sectorname": "Economy Sector"}]
+              "sectors": [
+                {
+                  "sectorname": "Economy Sector"
+                },
+                {
+                  "sectorname": "Justice and Safety Sector"
+                }
+              ]
             },
             {
               "name": "Water, Land and Resource Stewardship",
