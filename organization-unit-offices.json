@@ -1,0 +1,1295 @@
+[
+  {
+    "orgname": "Agricultural Land Commission",
+    "units": []
+  },
+  {
+    "orgname": "Attorney General",
+    "units": [
+      {
+        "unitname": "Abbotsford Courthouse",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Abbotsford Justice Access Centre",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Access & Operations Services",
+        "address": {
+          "mailAddress1": "PO Box 9280 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J7"
+        }
+      },
+      {
+        "unitname": "Accounting Section",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "BC",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "ADM Office",
+        "address": {
+          "mailAddress1": "PO Box 9249",
+          "mailAddress2": "Stn Prov Govt",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J2"
+        }
+      },
+      {
+        "unitname": "Administrative Support",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Alliance Management Office",
+        "address": {
+          "mailAddress1": "PO BOX 9262",
+          "mailAddress2": "Stn Prov Govt",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J4"
+        }
+      },
+      {
+        "unitname": "Application Management & Infrastructure",
+        "address": {
+          "mailAddress1": "PO BOX 9262",
+          "mailAddress2": "Stn Prov Govt",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J4"
+        }
+      },
+      {
+        "unitname": "Articled Student Program",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Assistant Deputy Attorney General",
+        "address": {
+          "mailAddress1": "PO Box 9280 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J7"
+        }
+      },
+      {
+        "unitname": "B.C. Courthouse Library Society",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "B.C. Human Rights Tribunal",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "B.C. Review Board",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Bills Editing & Publications Department",
+        "address": {
+          "mailAddress1": "PO Box 9280 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J7"
+        }
+      },
+      {
+        "unitname": "Burns Lake Courthouse",
+        "address": {
+          "mailAddress1": "PO Box 251",
+          "mailAddress2": "508 Yellowhead Hwy",
+          "mailCity": "",
+          "mailProvince": "BC",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Business Consulting Unit",
+        "address": {
+          "mailAddress1": "PO Box 9280 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J7"
+        }
+      },
+      {
+        "unitname": "Business Operations",
+        "address": {
+          "mailAddress1": "PO Box 9280 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J7"
+        }
+      },
+      {
+        "unitname": "Business Planning & Priorities",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "BC",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Business Solutions Office",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Business Transformation and Training",
+        "address": {
+          "mailAddress1": "P.O. Box 9249, Stn. Prov. Govt.",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J2"
+        }
+      },
+      {
+        "unitname": "Campbell River Courthouse",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Campbell River Family Justice Centre",
+        "address": {
+          "mailAddress1": "#128",
+          "mailAddress2": "1180 Ironwood Road",
+          "mailCity": "Campbell River",
+          "mailProvince": "BC",
+          "mailPostalCode": "V9W5P7"
+        }
+      },
+      {
+        "unitname": "Castlegar Circuit Court",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Central Services Group",
+        "address": {
+          "mailAddress1": "PO Box 9280 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J7"
+        }
+      },
+      {
+        "unitname": "Chase Circuit Court",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Chetwynd Circuit Court",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Chief Technology Office",
+        "address": {
+          "mailAddress1": "PO BOX 9262",
+          "mailAddress2": "Stn Prov Govt",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J4"
+        }
+      },
+      {
+        "unitname": "Child and Youth Services",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Chilliwack Courthouse",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "BC",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Chilliwack Family Justice Centre",
+        "address": {
+          "mailAddress1": "#202 - 46093 Yale Road",
+          "mailAddress2": "46093 Yale Road",
+          "mailCity": "Chilliwack",
+          "mailProvince": "BC",
+          "mailPostalCode": "V2P2L8"
+        }
+      },
+      {
+        "unitname": "Civil Programs",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "BC",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Civil Resolution Tribunal",
+        "address": {
+          "mailAddress1": "PO Box 9239, STN PROV GOVT",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J1"
+        }
+      },
+      {
+        "unitname": "CJB Criminal Appeals & Special Prosecutions (CASP)",
+        "address": {
+          "mailAddress1": "BOX 600",
+          "mailAddress2": "865 Hornby Street",
+          "mailCity": "Vancouver",
+          "mailProvince": "BC",
+          "mailPostalCode": "V6Z2G3"
+        }
+      },
+      {
+        "unitname": "CJB REGION 1 - Vancouver Island",
+        "address": {
+          "mailAddress1": "500-13 Ave",
+          "mailAddress2": "",
+          "mailCity": "Campbell River",
+          "mailProvince": "BC",
+          "mailPostalCode": "V9W6P1"
+        }
+      },
+      {
+        "unitname": "CJB REGION 2 - Vancouver",
+        "address": {
+          "mailAddress1": "200 East 23 St",
+          "mailAddress2": "",
+          "mailCity": "North Vancouver",
+          "mailProvince": "BC",
+          "mailPostalCode": "V7L4R4"
+        }
+      },
+      {
+        "unitname": "CJB REGION 3 - Fraser",
+        "address": {
+          "mailAddress1": "2nd fl",
+          "mailAddress2": "32375 Veterans Way",
+          "mailCity": "Abbotsford",
+          "mailProvince": "BC",
+          "mailPostalCode": "V2T0K1"
+        }
+      },
+      {
+        "unitname": "CJB REGION 4 - Interior",
+        "address": {
+          "mailAddress1": "#201 Access Centre",
+          "mailAddress2": "100 Cranbrook St North",
+          "mailCity": "Cranbrook",
+          "mailProvince": "BC",
+          "mailPostalCode": "V1C3P9"
+        }
+      },
+      {
+        "unitname": "CJB REGION 5 - Northern",
+        "address": {
+          "mailAddress1": "4th fl",
+          "mailAddress2": "1201-103 Ave",
+          "mailCity": "Dawson Creek",
+          "mailProvince": "BC",
+          "mailPostalCode": "V1G4J2"
+        }
+      },
+      {
+        "unitname": "CJB Regional Crown Counsel Office - Fraser Region",
+        "address": {
+          "mailAddress1": "BOX 300",
+          "mailAddress2": "651 Carnarvon Street",
+          "mailCity": "New Westminster",
+          "mailProvince": "BC",
+          "mailPostalCode": "V3M1C9"
+        }
+      },
+      {
+        "unitname": "CJB Regional Crown Counsel Office - Interior Region",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "1465 Ellis St",
+          "mailCity": "Kelowna",
+          "mailProvince": "BC",
+          "mailPostalCode": "V1Y2A3"
+        }
+      },
+      {
+        "unitname": "CJB Regional Crown Counsel Office - Northern Region",
+        "address": {
+          "mailAddress1": "BOX 2038",
+          "mailAddress2": "250 George Street",
+          "mailCity": "Prince George",
+          "mailProvince": "BC",
+          "mailPostalCode": "V2L5S2"
+        }
+      },
+      {
+        "unitname": "CJB Regional Crown Counsel Office - Vancouver Island Region",
+        "address": {
+          "mailAddress1": "PO BOX 9245",
+          "mailAddress2": "STN PROV GOVT",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W3E6"
+        }
+      },
+      {
+        "unitname": "CJB Regional Crown Counsel Office - Vancouver Region",
+        "address": {
+          "mailAddress1": "BOX 500",
+          "mailAddress2": "865 Hornby Street",
+          "mailCity": "Vancouver",
+          "mailProvince": "BC",
+          "mailPostalCode": "V6Z2G3"
+        }
+      },
+      {
+        "unitname": "Clearwater Courthouse",
+        "address": {
+          "mailAddress1": "Box 1981 RR#1",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "BC",
+          "mailPostalCode": "V0E1N0"
+        }
+      },
+      {
+        "unitname": "Client Business Services",
+        "address": {
+          "mailAddress1": "PO Box 9280 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J7"
+        }
+      },
+      {
+        "unitname": "Client Finance and Administration Services",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "BC",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Client Services",
+        "address": {
+          "mailAddress1": "PO BOX 9262",
+          "mailAddress2": "Stn Prov Govt",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J4"
+        }
+      },
+      {
+        "unitname": "CMSB Accounts Payable",
+        "address": {
+          "mailAddress1": "PO Box 9280 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "CMSB Finance and Administration Division",
+        "address": {
+          "mailAddress1": "PO BOX 9256",
+          "mailAddress2": "STN PROV GOVT",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J4"
+        }
+      },
+      {
+        "unitname": "Corporate Management Services Branch",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "BC",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Court Clerk Section",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "BC",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Court of Appeal Registry",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Court Services Branch Executive",
+        "address": {
+          "mailAddress1": "PO Box 9249",
+          "mailAddress2": "Stn Prov Govt",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J2"
+        }
+      },
+      {
+        "unitname": "Courtenay Courthouse",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Courtenay Family Justice Centre",
+        "address": {
+          "mailAddress1": "#45 - 2500 Cliffe Avenue",
+          "mailAddress2": "2500 Cliffe Avenue",
+          "mailCity": "Courtenay",
+          "mailProvince": "BC",
+          "mailPostalCode": "V9N5M6"
+        }
+      },
+      {
+        "unitname": "Cranbrook Courthouse",
+        "address": {
+          "mailAddress1": "#147 - 102 11th Avenue South",
+          "mailAddress2": "",
+          "mailCity": "Cranbrook",
+          "mailProvince": "BC",
+          "mailPostalCode": "V1C2P3"
+        }
+      },
+      {
+        "unitname": "Cranbrook Family Justice Centre",
+        "address": {
+          "mailAddress1": "#221 - 102 11th Avenue S",
+          "mailAddress2": "",
+          "mailCity": "Cranbrook",
+          "mailProvince": "BC",
+          "mailPostalCode": "V1C2P3"
+        }
+      },
+      {
+        "unitname": "Creston Circuit Court",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Finance Group",
+        "address": {
+          "mailAddress1": "PO Box 9280 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J7"
+        }
+      },
+      {
+        "unitname": "Financial Management and Administration",
+        "address": {
+          "mailAddress1": "Court Services Headquarters",
+          "mailAddress2": "PO Box 9249 Stn Prov Govt",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J2"
+        }
+      },
+      {
+        "unitname": "FJSD Headquarters",
+        "address": {
+          "mailAddress1": "PO Box 9230 STN PROV GOVT",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J1"
+        }
+      },
+      {
+        "unitname": "Fort Nelson Courthouse",
+        "address": {
+          "mailAddress1": "Bag 1000",
+          "mailAddress2": "",
+          "mailCity": "Fort Nelson",
+          "mailProvince": "BC",
+          "mailPostalCode": "V0C1R0"
+        }
+      },
+      {
+        "unitname": "Fort St. John Courthouse",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Fraser Regional Office",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Golden Courthouse",
+        "address": {
+          "mailAddress1": "Box 1500",
+          "mailAddress2": "",
+          "mailCity": "Golden",
+          "mailProvince": "BC",
+          "mailPostalCode": "V0A1H0"
+        }
+      },
+      {
+        "unitname": "Grand Forks Circuit Court",
+        "address": {
+          "mailAddress1": "(Contact Rossland)",
+          "mailAddress2": "Box 639, 2288 Columbia Avenue",
+          "mailCity": "Rossland",
+          "mailProvince": "BC",
+          "mailPostalCode": "V0G1Y0"
+        }
+      },
+      {
+        "unitname": "Health and Social Services",
+        "address": {
+          "mailAddress1": "PO Box 9280 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Houston Circuit Court",
+        "address": {
+          "mailAddress1": "Contact Smithers Registry",
+          "mailAddress2": "Bag 5000, 3793 Alfred Street",
+          "mailCity": "Smithers",
+          "mailProvince": "BC",
+          "mailPostalCode": "V0J2N0"
+        }
+      },
+      {
+        "unitname": "Human Resources",
+        "address": {
+          "mailAddress1": "PO Box 9280 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J7"
+        }
+      },
+      {
+        "unitname": "In Court Technologies",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "BC",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Indigenous Justice Secretariat",
+        "address": {
+          "mailAddress1": "PO BOX 9222",
+          "mailAddress2": "STN PROV GOVT",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W1E2"
+        }
+      },
+      {
+        "unitname": "Indigenous Legal Relations, Research Unit",
+        "address": {
+          "mailAddress1": "PO Box 9270 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J5"
+        }
+      },
+      {
+        "unitname": "Indigenous Legal Relations, Barrister Unit",
+        "address": {
+          "mailAddress1": "PO Box 9270 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J5"
+        }
+      },
+      {
+        "unitname": "Indigenous Legal Relations, Solicitor Unit",
+        "address": {
+          "mailAddress1": "PO Box 9220 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J1"
+        }
+      },
+      {
+        "unitname": "Information Security & Compliance",
+        "address": {
+          "mailAddress1": "PO BOX 9262",
+          "mailAddress2": "Stn Prov Govt",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J4"
+        }
+      },
+      {
+        "unitname": "Information Systems Branch",
+        "address": {
+          "mailAddress1": "PO BOX 9262",
+          "mailAddress2": "Stn Prov Govt",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J4"
+        }
+      },
+      {
+        "unitname": "Interior Regional Office",
+        "address": {
+          "mailAddress1": "Court Services Branch",
+          "mailAddress2": "#221 - 455 Columbia Street",
+          "mailCity": "Kamloops",
+          "mailProvince": "BC",
+          "mailPostalCode": "V2C6K4"
+        }
+      },
+      {
+        "unitname": "Invermere Circuit Court",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "New Westminster Courthouse",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "New Westminster Family Justice Centre",
+        "address": {
+          "mailAddress1": "#204 - 88 10th Street",
+          "mailAddress2": "",
+          "mailCity": "New Westminster",
+          "mailProvince": "BC",
+          "mailPostalCode": "V3M6H8"
+        }
+      },
+      {
+        "unitname": "North Vancouver Courthouse",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "North Vancouver Family Justice Centre",
+        "address": {
+          "mailAddress1": "#100 - 233 West 1st Street",
+          "mailAddress2": "",
+          "mailCity": "North Vancouver",
+          "mailProvince": "BC",
+          "mailPostalCode": "V7M1B3"
+        }
+      },
+      {
+        "unitname": "North/Interior/Fraser Regional Office",
+        "address": {
+          "mailAddress1": "#304 - 2777 Gladwin Rd",
+          "mailAddress2": "",
+          "mailCity": "Abbotsford",
+          "mailProvince": "BC",
+          "mailPostalCode": "V2T4V1"
+        }
+      },
+      {
+        "unitname": "Northern Regional Office",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Office of Legislative Counsel",
+        "address": {
+          "mailAddress1": "PO Box 9280 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J7"
+        }
+      },
+      {
+        "unitname": "Office of Professional Standards",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Oliver",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Oliver Escort Centre",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Order In Council Administration Office",
+        "address": {
+          "mailAddress1": "PO Box 9280 Stn Prov Govt",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J7"
+        }
+      },
+      {
+        "unitname": "Paralegals",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Pemberton Circuit Court",
+        "address": {
+          "mailAddress1": "(Circuit Court of North Vancouver)",
+          "mailAddress2": "200 East 23rd Street",
+          "mailCity": "North Vancouver",
+          "mailProvince": "BC",
+          "mailPostalCode": "V7L4R4"
+        }
+      },
+      {
+        "unitname": "Penticton Courthouse",
+        "address": {
+          "mailAddress1": "210 - 100 Main Street",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "BC",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Penticton Family Justice Centre",
+        "address": {
+          "mailAddress1": "Courthouse, 100 Main St.",
+          "mailAddress2": "",
+          "mailCity": "Penticton",
+          "mailProvince": "BC",
+          "mailPostalCode": "V2A5A5"
+        }
+      },
+      {
+        "unitname": "Smithers Courthouse",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "BC",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Strategic Human Resources",
+        "address": {
+          "mailAddress1": "PO BOX 9260 STN PROV GOVT",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J4"
+        }
+      },
+
+      {
+        "unitname": "Strategic Information & Business Applications",
+        "address": {
+          "mailAddress1": "Court Services Headquarters",
+          "mailAddress2": "PO Box 9249 Stn Prov Govt",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J2"
+        }
+      },
+      {
+        "unitname": "Strategic Planning & Digital Transformation",
+        "address": {
+          "mailAddress1": "PO BOX 9262",
+          "mailAddress2": "Stn Prov Govt",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9J4"
+        }
+      },
+      {
+        "unitname": "Surface Rights Board",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Surrey Courthouse",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Surrey Family Justice Registry Office",
+        "address": {
+          "mailAddress1": "#301, 7380 King George Highway",
+          "mailAddress2": "",
+          "mailCity": "Surrey",
+          "mailProvince": "BC",
+          "mailPostalCode": "V3W5A5"
+        }
+      },
+      {
+        "unitname": "Surrey Justice Access Centre",
+        "address": {
+          "mailAddress1": "3rd Floor - 14340 - 57th Ave",
+          "mailAddress2": "",
+          "mailCity": "Surrey",
+          "mailProvince": "BC",
+          "mailPostalCode": "V3X1B2"
+        }
+      },
+      {
+        "unitname": "Williams Lake Courthouse",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "BC",
+          "mailPostalCode": ""
+        }
+      }
+    ]
+  },
+  {
+    "orgname": "BC Public Service Agency",
+    "units": [
+      {
+        "unitname": "Audit and Regulations",
+        "address": {
+          "mailAddress1": "P.O. BOX 9404, STN. PROV. GOVT",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9V1"
+        }
+      },
+      {
+        "unitname": "BC Public Service Agency",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Behavioural Insights Group",
+        "address": {
+          "mailAddress1": "PO Box 9476 STN PROV GOVT",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9W6"
+        }
+      },
+      {
+        "unitname": "Classification and Exclusion Services",
+        "address": {
+          "mailAddress1": "PO BOX 9639 STN PROV GOVT",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9P1"
+        }
+      },
+      {
+        "unitname": "Community Sector",
+        "address": {
+          "mailAddress1": "PO Box 9499 STN PROV GOVT",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9N9"
+        }
+      },
+      // ... More entries
+      {
+        "unitname": "HR Services and Solutions",
+        "address": {
+          "mailAddress1": "P.O. BOX 9404, STN. PROV. GOVT",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9V1"
+        }
+      },
+      {
+        "unitname": "HR Specialist and Interpretation Services",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Information Technology Services",
+        "address": {
+          "mailAddress1": "PO BOX 9404 STN PROV GOVT",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9V1"
+        }
+      },
+      {
+        "unitname": "Disability Plan Performance",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Williams Lake Courthouse",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "BC",
+          "mailPostalCode": ""
+        }
+      }
+    ]
+  },
+  {
+    "orgname": "BC Public Service Agency",
+    "units": [
+      {
+        "unitname": "Information Technology Services Office",
+        "address": {
+          "mailAddress1": "PO BOX 9404 STN PROV GOVT",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9V1"
+        }
+      },
+      {
+        "unitname": "Knowledge and Records Management",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Labour Relations",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Total Compensation",
+        "address": {
+          "mailAddress1": "P.O. BOX 9404, STN PROV GOVT",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W9V1"
+        }
+      },
+      {
+        "unitname": "Workplace Health & Safety",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      }
+    ]
+  },
+  {
+    "orgname": "BC Transit",
+    "units": [
+      {
+        "unitname": "BC Transit",
+        "address": {
+          "mailAddress1": "PO Box 610",
+          "mailAddress2": "",
+          "mailCity": "Victoria",
+          "mailProvince": "BC",
+          "mailPostalCode": "V8W2P3"
+        }
+      }
+    ]
+  },
+  {
+    "orgname": "BC Utilities Commission",
+    "units": [
+      {
+        "unitname": "British Columbia Utilities Commission",
+        "address": {
+          "mailAddress1": "410, 900 Howe Street",
+          "mailAddress2": "",
+          "mailCity": "Vancouver",
+          "mailProvince": "BC",
+          "mailPostalCode": "V6Z2N3"
+        }
+      },
+      
+      {
+        "unitname": "Rates",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Regulatory Services",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      }
+    ]
+  },
+  {
+    "orgname": "British Columbia Assessment Authority",
+    "units": [
+      {
+        "unitname": "Board Of Directors",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      // ... More entries
+      {
+        "unitname": "Regional Assessors",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      }
+    ]
+  },
+  {
+    "orgname": "British Columbia Energy Regulator",
+    "units": [
+      {
+        "unitname": "Aboriginal Liaison Program",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      },
+      {
+        "unitname": "Authorizations",
+        "address": {
+          "mailAddress1": "",
+          "mailAddress2": "",
+          "mailCity": "",
+          "mailProvince": "",
+          "mailPostalCode": ""
+        }
+      }   
+    ]
+  }
+]
