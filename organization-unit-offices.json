@@ -1,7 +1,11 @@
-[
+[ # This is DRAFT, DO NOT USE
   {
     "orgname": "Agricultural Land Commission",
-    "units": []
+    "units": [
+      {
+       "unitname": "Agricultural Land Commission"
+      }
+    ]
   },
   {
     "orgname": "Attorney General",
