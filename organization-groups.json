@@ -1,0 +1,225 @@
+{
+  "items": [
+    {
+      "organizations": [
+        {
+          "orgname": "Office of the Lieutenant-Governor"
+        },
+        {
+          "orgname": "Legislative Assembly and Independent Offices"
+        },
+        {
+          "orgname": "The Judiciary"
+        },
+        {
+          "orgname": "The Executive Council"
+        },
+        {
+          "orgname": "Office of the Premier and Cabinet Office"
+        },
+        {
+          "orgname": "Ministries",
+          "ministries": [
+            {
+              "name": "Agriculture and Food",
+              "acronym": "AF",
+              "sectors": [{"sectorname": "Natural Resource Sector"}]
+            },
+            {
+              "name": "Attorney General",
+              "acronym": "AG",
+              "sectors": [{"sectorname": "Justice and Safety Sector"}]
+            },
+            {
+              "name": "Children and Family Development",
+              "acronym": "MCF",
+              "sectors": [{"sectorname": "Social Sector"}]
+            },
+            {
+              "name": "Citizens' Services",
+              "acronym": "CITZ",
+              "sectors": [{"sectorname": "Governance Sector"}]
+            },
+            {
+              "name": "Education and Child Care",
+              "acronym": "ECC",
+              "sectors": [{"sectorname": "Education Sector"}]
+            },
+            {
+              "name": "Emergency Management and Climate Readiness",
+              "acronym": "EMCR",
+              "sectors": [{"sectorname": "Justice and Safety Sector"}]
+            },
+            {
+              "name": "Energy, Mines and Low Carbon Innovation",
+              "acronym": "EMLI",
+              "sectors": [{"sectorname": "Natural Resource Sector"}]
+            },
+            {
+              "name": "Environment and Climate Change Strategy",
+              "acronym": "ENV",
+              "sectors": [{"sectorname": "Natural Resource Sector"}]
+            },
+            {
+              "name": "Finance",
+              "acronym": "FIN",
+              "sectors": [
+                {
+                  "sectorname": "Governance Sector"
+                },
+                {
+                  "sectorname": "Economy Sector"                  
+                }
+              ]
+            },
+            {
+              "name": "Forests",
+              "acronym": "FOR",
+              "sectors": [{"sectorname": "Natural Resource Sector"}]
+            },
+            {
+              "name": "Health",
+              "acronym": "HLTH",
+              "sectors": [{"sectorname": "Health Sector"}]
+            },
+            {
+              "name": "Housing",
+              "acronym": "HOUS",
+              "sectors": [{"sectorname": "Social Sector"}]
+            },
+            {
+              "name": "Indigenous Relations & Reconciliation",
+              "acronym": "IRR",
+              "sectors": [{"sectorname": "Natural Resource Sector"}]
+            },
+            {
+              "name": "Jobs, Economic Development and Innovation",
+              "acronym": "JEDI",
+              "sectors": [{"sectorname": "Economy Sector"}]
+            },
+            {
+              "name": "Labour",
+              "acronym": "LBR",
+              "sectors": [{"sectorname": "Economy Sector"}]
+            },
+            {
+              "name": "Mental Health and Addictions",
+              "acronym": "MHA",
+              "sectors": [{"sectorname": "Health Sector"}]
+            },
+            {
+              "name": "Municipal Affairs",
+              "acronym": "MUNI",
+              "sectors": [{"sectorname": "Governance Sector"}]
+            },
+            {
+              "name": "Post-Secondary Education and Future Skills",
+              "acronym": "PSFS",
+              "sectors": [{"sectorname": "Education Sector"}]
+            },
+            {
+              "name": "Public Safety and Solicitor General",
+              "acronym": "PSSG",
+              "sectors": [{"sectorname": "Justice and Safety Sector"}]
+            },
+            {
+              "name": "Social Development and Poverty Reduction",
+              "acronym": "SDPR",
+              "sectors": [{"sectorname": "Social Sector"}]
+            },
+            {
+              "name": "Tourism, Arts, Culture and Sport",
+              "acronym": "TACS",
+              "sectors": [{"sectorname": "Economy Sector"}]
+            },
+            {
+              "name": "Transportation and Infrastructure",
+              "acronym": "MOTI",
+              "sectors": [
+                {
+                  "sectorname": "Economy Sector"
+                },
+                {
+                  "sectorname": "Justice and Safety Sector"
+                }
+              ]
+            },
+            {
+              "name": "Water, Land and Resource Stewardship",
+              "acronym": "WLRS",
+              "sectors": [{"sectorname": "Natural Resource Sector"}]
+            }
+          ]
+        },
+        {
+          "orgname": "Crown Corporations"
+        },
+        {
+          "orgname": "Public Agencies"
+        }
+      ]
+    },
+    {
+      "sectors": [
+        {
+          "sectorname": "Natural Resource Sector",
+          "ministries": [
+            {"name": "Agriculture and Food", "acronym": "AF"},
+            {"name": "Energy, Mines and Low Carbon Innovation", "acronym": "EMLI"},
+            {"name": "Environment and Climate Change Strategy", "acronym": "ENV"},
+            {"name": "Forests", "acronym": "FOR"},
+            {"name": "Indigenous Relations & Reconciliation", "acronym": "IRR"},
+            {"name": "Water, Land and Resource Stewardship", "acronym": "WLRS"}
+          ]
+        },
+        {
+          "sectorname": "Justice and Safety Sector",
+          "ministries": [
+            {"name": "Attorney General", "acronym": "AG"},
+            {"name": "Emergency Management and Climate Readiness", "acronym": "EMCR"},
+            {"name": "Public Safety and Solicitor General", "acronym": "PSSG"}
+          ]
+        },
+        {
+          "sectorname": "Education Sector",
+          "ministries": [
+            {"name": "Education and Child Care", "acronym": "ECC"},
+            {"name": "Post-Secondary Education and Future Skills", "acronym": "PSFS"}
+          ]
+        },
+        {
+          "sectorname": "Health Sector",
+          "ministries": [
+            {"name": "Health", "acronym": "HLTH"},
+            {"name": "Mental Health and Addictions", "acronym": "MHA"}
+          ]
+        },
+        {
+          "sectorname": "Economy Sector",
+          "ministries": [
+            {"name": "Jobs, Economic Development and Innovation", "acronym": "JEDI"},
+            {"name": "Labour", "acronym": "LBR"},
+            {"name": "Tourism, Arts, Culture and Sport", "acronym": "TACS"},
+            {"name": "Transportation and Infrastructure", "acronym": "MOTI"}
+          ]
+        },
+        {
+          "sectorname": "Governance Sector",
+           "ministries": [
+            {"name": "Citizens' Services", "acronym": "CITZ"},
+            {"name": "Finance", "acronym": "FIN"},
+            {"name": "Municipal Affairs", "acronym": "MUNI"}
+          ]
+        },
+        {
+          "sectorname": "Social Sector",
+          "ministries": [
+            {"name": "Children and Family Development", "acronym": "MCF"},
+            {"name": "Housing", "acronym": "HOUS"},
+            {"name": "Social Development and Poverty Reduction", "acronym": "SDPR"}
+          ]
+        }
+      ]
+    }
+  ]
+}
