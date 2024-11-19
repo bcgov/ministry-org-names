@@ -51,15 +51,15 @@
               "sectors": [{"sectorname": "Justice and Safety Sector"}]
             },
             {
-              "name": "Energy, Mines and Low Carbon Innovation",
-              "acronym": "EMLI",
+              "name": "Energy and Climate Solutions",
+              "acronym": "ECS",
               "sectors": [{"sectorname": "Natural Resource Sector"}]
-            },
+            },            
             {
-              "name": "Environment and Climate Change Strategy",
+              "name": "Environment and Parks",
               "acronym": "ENV",
               "sectors": [{"sectorname": "Natural Resource Sector"}]
-            },
+            },          
             {
               "name": "Finance",
               "acronym": "FIN",
@@ -83,7 +83,7 @@
               "sectors": [{"sectorname": "Health Sector"}]
             },
             {
-              "name": "Housing",
+              "name": "Housing and Municipal Affairs",
               "acronym": "HOUS",
               "sectors": [{"sectorname": "Social Sector"}]
             },
@@ -92,6 +92,18 @@
               "acronym": "IRR",
               "sectors": [{"sectorname": "Natural Resource Sector"}]
             },
+            {
+              "name": "Infrastructure",
+              "acronym": "MOI",
+              "sectors": [
+                {
+                  "sectorname": "Economy Sector"
+                },
+                {
+                  "sectorname": "Justice and Safety Sector"
+                }
+              ]
+            },            
             {
               "name": "Jobs, Economic Development and Innovation",
               "acronym": "JEDI",
@@ -103,15 +115,10 @@
               "sectors": [{"sectorname": "Economy Sector"}]
             },
             {
-              "name": "Mental Health and Addictions",
-              "acronym": "MHA",
-              "sectors": [{"sectorname": "Health Sector"}]
-            },
-            {
-              "name": "Municipal Affairs",
-              "acronym": "MUNI",
-              "sectors": [{"sectorname": "Governance Sector"}]
-            },
+              "name": "Mining and Critical Minerals",
+              "acronym": "MCM",
+              "sectors": [{"sectorname": "Natural Resource Sector"}]
+            },  
             {
               "name": "Post-Secondary Education and Future Skills",
               "acronym": "PSFS",
@@ -133,8 +140,8 @@
               "sectors": [{"sectorname": "Economy Sector"}]
             },
             {
-              "name": "Transportation and Infrastructure",
-              "acronym": "MOTI",
+              "name": "Transportation and Transit",
+              "acronym": "TRAN",
               "sectors": [
                 {
                   "sectorname": "Economy Sector"
@@ -165,10 +172,11 @@
           "sectorname": "Natural Resource Sector",
           "ministries": [
             {"name": "Agriculture and Food", "acronym": "AF"},
-            {"name": "Energy, Mines and Low Carbon Innovation", "acronym": "EMLI"},
-            {"name": "Environment and Climate Change Strategy", "acronym": "ENV"},
+            {"name": "Energy and Climate Solutions", "acronym": "ECS"},
+            {"name": "Environment and Parks", "acronym": "ENV"},
             {"name": "Forests", "acronym": "FOR"},
             {"name": "Indigenous Relations & Reconciliation", "acronym": "IRR"},
+            {"name": "Mining and Critical Minerals", "acronym": "MCM"},
             {"name": "Water, Land and Resource Stewardship", "acronym": "WLRS"}
           ]
         },
@@ -177,7 +185,9 @@
           "ministries": [
             {"name": "Attorney General", "acronym": "AG"},
             {"name": "Emergency Management and Climate Readiness", "acronym": "EMCR"},
-            {"name": "Public Safety and Solicitor General", "acronym": "PSSG"}
+            {"name": "Infrastructure", "acronym": "MOI"},
+            {"name": "Public Safety and Solicitor General", "acronym": "PSSG"},
+            {"name": "Transportation and Transit", "acronym": "TRAN"}
           ]
         },
         {
@@ -190,32 +200,31 @@
         {
           "sectorname": "Health Sector",
           "ministries": [
-            {"name": "Health", "acronym": "HLTH"},
-            {"name": "Mental Health and Addictions", "acronym": "MHA"}
+            {"name": "Health", "acronym": "HLTH"}
           ]
         },
         {
           "sectorname": "Economy Sector",
           "ministries": [
+            {"name": "Infrastructure", "acronym": "MOI"},
             {"name": "Jobs, Economic Development and Innovation", "acronym": "JEDI"},
             {"name": "Labour", "acronym": "LBR"},
             {"name": "Tourism, Arts, Culture and Sport", "acronym": "TACS"},
-            {"name": "Transportation and Infrastructure", "acronym": "MOTI"}
+            {"name": "Transportation and Transit", "acronym": "TRAN"}
           ]
         },
         {
           "sectorname": "Governance Sector",
            "ministries": [
             {"name": "Citizens' Services", "acronym": "CITZ"},
-            {"name": "Finance", "acronym": "FIN"},
-            {"name": "Municipal Affairs", "acronym": "MUNI"}
+            {"name": "Finance", "acronym": "FIN"}
           ]
         },
         {
           "sectorname": "Social Sector",
           "ministries": [
             {"name": "Children and Family Development", "acronym": "MCF"},
-            {"name": "Housing", "acronym": "HOUS"},
+            {"name": "Housing and Municipal Affairs", "acronym": "HOUS"},
             {"name": "Social Development and Poverty Reduction", "acronym": "SDPR"}
           ]
         }
