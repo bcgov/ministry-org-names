@@ -8,11 +8,11 @@
           "acronym": "AF"
         },
         {
-          "name": "Energy, Mines and Low Carbon Innovation",
-          "acronym": "EMLI"
+          "name": "Energy and Climate Solutions",
+          "acronym": "ECS"
         },
         {
-          "name": "Environment and Climate Change Strategy",
+          "name": "Environment and Parks",
           "acronym": "ENV"
         },
         {
@@ -22,6 +22,10 @@
         {
           "name": "Indigenous Relations & Reconciliation",
           "acronym": "IRR"
+        },
+        {
+          "name": "Mining and Critical Minerals",
+          "acronym": "MCM"
         },
         {
           "name": "Water, Land and Resource Stewardship",
@@ -41,8 +45,16 @@
           "acronym": "EMCR"
         },
         {
+          "name": "Infrastructure",
+          "acronym": "MOI"
+        },
+        {
           "name": "Public Safety and Solicitor General",
           "acronym": "PSSG"
+        },
+        {
+          "name": "Transportation and Transit",
+          "acronym": "TRAN"
         }
       ]
     },
@@ -65,16 +77,16 @@
         {
           "name": "Health",
           "acronym": "HLTH"
-        },
-        {
-          "name": "Mental Health and Addictions",
-          "acronym": "MMHA"
         }
       ]
     },
     {
       "name": "Economy Sector",
       "ministries": [
+        {
+          "name": "Infrastructure",
+          "acronym": "MOI"
+        },
         {
           "name": "Jobs, Economic Development and Innovation",
           "acronym": "JEDI"
@@ -88,8 +100,8 @@
           "acronym": "TACS"
         },
         {
-          "name": "Transportation and Infrastructure",
-          "acronym": "MOTI"
+          "name": "Transportation and Transit",
+          "acronym": "TRAN"
         }
       ]
     },
@@ -110,15 +122,11 @@
       "name": "Social Sector",
       "ministries": [
         {
-          "name": "Municipal Affairs",
-          "acronym": "MUNI"
-        },
-        {
           "name": "Children and Family Development",
           "acronym": "MCFD"
         },
         {
-          "name": "Housing",
+          "name": "Housing and Municipal Affairs",
           "acronym": "HOUS"
         },
         {
