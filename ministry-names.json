@@ -6,12 +6,12 @@
       "sector": "Natural Resource Sector"
     },
     {
-      "name": "Energy, Mines and Low Carbon Innovation",
-      "acronym": "EMLI",
+      "name": "Energy and Climate Solutions",
+      "acronym": "ECS",
       "sector": "Natural Resource Sector"
     },
     {
-      "name": "Environment and Climate Change Strategy",
+      "name": "Environment and Parks",
       "acronym": "ENV",
       "sector": "Natural Resource Sector"
     },
@@ -25,6 +25,11 @@
       "acronym": "IRR",
       "sector": "Natural Resource Sector"
     },
+    {
+      "name": "Mining and Critical Minerals",
+      "acronym": "MCM",
+      "sector": "Natural Resource Sector"
+    },    
     {
       "name": "Water, Land and Resource Stewardship",
       "acronym": "WLRS",
@@ -61,13 +66,13 @@
       "sector": "Health Sector"
     },
     {
-      "name": "Mental Health and Addictions",
-      "acronym": "MMHA",
-      "sector": "Health Sector"
-    },
-    {
       "name": "Jobs, Economic Development and Innovation",
       "acronym": "JEDI",
+      "sector": "Economy Sector"
+    },
+    {
+      "name": "Infrastructure",
+      "acronym": "INFR",
       "sector": "Economy Sector"
     },
     {
@@ -81,8 +86,8 @@
       "sector": "Economy Sector"
     },
     {
-      "name": "Transportation and Infrastructure",
-      "acronym": "MOTI",
+      "name": "Transportation and Transit",
+      "acronym": "TRAN",
       "sector": "Economy Sector"
     },
     {
@@ -96,17 +101,12 @@
       "sector": "Governance Sector"
     },
     {
-      "name": "Municipal Affairs",
-      "acronym": "MUNI",
-      "sector": "Social Sector"
-    },
-    {
       "name": "Children and Family Development",
       "acronym": "MCFD",
       "sector": "Social Sector"
     },
     {
-      "name": "Housing",
+      "name": "Housing and Municipal Affairs",
       "acronym": "HOUS",
       "sector": "Social Sector"
     },
