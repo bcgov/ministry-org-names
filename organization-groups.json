@@ -159,6 +159,59 @@
           ]
         },
         {
+        "orgname": "Central Agencies",
+          "central_agencies": [
+            {
+              "name": "BC Public Service Agency",
+              "acronym": "PSA"
+            },
+            {
+              "name": "Compliance & Enforcement Collaborative",
+              "acronym": "CEC"
+            },
+            {
+              "name": "Corporate Information and Records Management Office",
+              "acronym": "CIRMO"
+            },
+            {
+              "name": "Crown Agencies and Board Resourcing Office",
+              "acronym": "CABRO"
+            },
+            {
+              "name": "Government Communications and Public Engagement",
+              "acronym": "GCPE"
+            },
+            {
+              "name": "Intergovernmental Relations Secretariat",
+              "acronym": "IGRS"
+            },
+            {
+              "name": "Office of the Chief Information Officer",
+              "acronym": "OCIO"
+            },
+            {
+              "name": "Office of the Comptroller General",
+              "acronym": "OCG"
+            },
+            {
+              "name": "Office of the Premier",
+              "acronym": "PREM"
+            },
+            {
+              "name": "Provincial Treasury",
+              "acronym": "PT"
+            },
+            {
+              "name": "Public Sector Employers' Council Secretariat",
+              "acronym": "PSECS"
+            },
+            {
+              "name": "Treasury Board Staff",
+              "acronym": "TB"
+            }
+          ]
+        },
+        {
           "orgname": "Crown Corporations"
         },
         {
@@ -185,9 +238,7 @@
           "ministries": [
             {"name": "Attorney General", "acronym": "AG"},
             {"name": "Emergency Management and Climate Readiness", "acronym": "EMCR"},
-            {"name": "Infrastructure", "acronym": "MOI"},
-            {"name": "Public Safety and Solicitor General", "acronym": "PSSG"},
-            {"name": "Transportation and Transit", "acronym": "TRAN"}
+            {"name": "Public Safety and Solicitor General", "acronym": "PSSG"}
           ]
         },
         {

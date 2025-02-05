@@ -24,7 +24,7 @@
           "acronym": "IRR"
         },
         {
-          "name": "Mining and Critical Minerals",
+          "name": "Mining and Critical Materials",
           "acronym": "MCM"
         },
         {
@@ -45,16 +45,8 @@
           "acronym": "EMCR"
         },
         {
-          "name": "Infrastructure",
-          "acronym": "MOI"
-        },
-        {
           "name": "Public Safety and Solicitor General",
           "acronym": "PSSG"
-        },
-        {
-          "name": "Transportation and Transit",
-          "acronym": "TRAN"
         }
       ]
     },
@@ -85,7 +77,7 @@
       "ministries": [
         {
           "name": "Infrastructure",
-          "acronym": "MOI"
+          "acronym": "INFR"
         },
         {
           "name": "Jobs, Economic Development and Innovation",
