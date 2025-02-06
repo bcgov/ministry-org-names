@@ -29,7 +29,7 @@
       "name": "Mining and Critical Minerals",
       "acronym": "MCM",
       "sector": "Natural Resource Sector"
-    },    
+    },
     {
       "name": "Water, Land and Resource Stewardship",
       "acronym": "WLRS",
@@ -66,13 +66,13 @@
       "sector": "Health Sector"
     },
     {
-      "name": "Jobs, Economic Development and Innovation",
-      "acronym": "JEDI",
+      "name": "Infrastructure",
+      "acronym": "INFR",
       "sector": "Economy Sector"
     },
     {
-      "name": "Infrastructure",
-      "acronym": "INFR",
+      "name": "Jobs, Economic Development and Innovation",
+      "acronym": "JEDI",
       "sector": "Economy Sector"
     },
     {
