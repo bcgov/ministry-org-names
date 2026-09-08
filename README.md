@@ -17,7 +17,7 @@ The unofficial list of published ministry names
 | Housing and Municipal Affairs               | HOUS    | Social Sector              |
 | Indigenous Relations & Reconciliation       | IRR     | Natural Resource Sector    |
 | Infrastructure                              | INFR    | Economy Sector             |
-| Jobs, Economic Development and Innovation   | JEDI    | Economy Sector             |
+| Jobs and Economic Growth                    | JEG     | Economy Sector             |
 | Labour                                      | LBR     | Economy Sector             |  
 | Mining and Critical Minerals                | MCM     | Natural Resource Sector    | 
 | Post-Secondary Education and Future Skills  | PSFS    | Education Sector           |
