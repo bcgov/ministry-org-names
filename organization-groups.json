@@ -141,7 +141,7 @@
             },
             {
               "name": "Transportation and Transit",
-              "acronym": "TRAN",
+              "acronym": "TT",
               "sectors": [
                 {
                   "sectorname": "Economy Sector"
