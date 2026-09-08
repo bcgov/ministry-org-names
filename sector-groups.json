@@ -93,7 +93,7 @@
         },
         {
           "name": "Transportation and Transit",
-          "acronym": "TRAN"
+          "acronym": "TT"
         }
       ]
     },
@@ -115,7 +115,7 @@
       "ministries": [
         {
           "name": "Children and Family Development",
-          "acronym": "MCFD"
+          "acronym": "CFD"
         },
         {
           "name": "Housing and Municipal Affairs",
