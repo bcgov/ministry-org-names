@@ -5,7 +5,7 @@ The unofficial list of published ministry names
 |---------------------------------------------|---------|----------------------------|
 | Agriculture and Food                        | AF      | Natural Resource Sector    |
 | Attorney General                            | AG      | Justice and Safety Sector  |
-| Children and Family Development             | MCFD    | Social Sector              |
+| Children and Family Development             | CFD    | Social Sector              |
 | Citizens' Services                          | CITZ    | Governance Sector          |
 | Education and Child Care                    | ECC     | Education Sector           |
 | Emergency Management and Climate Readiness  | EMCR    | Justice and Safety Sector  |  
