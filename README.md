@@ -24,5 +24,5 @@ The unofficial list of published ministry names
 | Public Safety and Solicitor General         | PSSG    | Justice and Safety Sector  |
 | Social Development and Poverty Reduction    | SDPR    | Social Sector              |
 | Tourism, Arts, Culture and Sport            | TACS    | Economy Sector             |
-| Transportation and Transit                  | MOTI    | Economy Sector             |
+| Transportation and Transit                  | TT      | Economy Sector             |
 | Water, Land and Resource Stewardship        | WLRS    | Natural Resource Sector    |
